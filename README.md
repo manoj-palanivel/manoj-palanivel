@@ -1,7 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=KLTgI0mEQCV-didiXVtsEEdGLXwPSj4kTvWKHz-2kEI)]
 <h1 align="center">Hi 👋, I'm Manoj Palanivelrajan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="https://www.shutterstock.com/image-photo/devops-engineer-agile-environment-infinity-260nw-2338240271.jpg">
 
 - 🌱 I’m currently learning **More on Front - End Development**
 
