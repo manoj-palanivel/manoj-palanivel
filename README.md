@@ -1,49 +1,69 @@
-<h1 align="center">🚀 Hey there, I'm [Your Name] 👋</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hey there, I'm <strong>[Your Name]</strong> 👨‍💻
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&multiline=true&width=700&height=60&lines=MERN+Stack+Web+Developer;Building+Awesome+Web+Experiences;Eager+to+Learn+%7C+Open+to+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=60&lines=🚀+MERN+Stack+Developer;🔥+JavaScript+Lover;💡+Open+Source+Contributor;🌍+Lifelong+Learner+%26+Tech+Explorer" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
-🔹 **MERN Stack Enthusiast** | Passionate about creating interactive & scalable web applications  
-🔹 **Self-Taught Developer** 🚀 | Learning & building projects every day  
-🔹 **Open Source Contributor** | Giving back to the dev community  
+## 🌟 About Me  
+💻 **MERN Stack Developer** | Passionate about Web Development  
+🚀 **Self-Taught Coder** | Love to experiment & build new projects  
+📚 **Always Learning** | Keeping up with the latest tech trends  
 
-📌 **Tech Stack:**  
-💡 **Frontend:** React.js, Tailwind CSS, Bootstrap  
-⚡ **Backend:** Node.js, Express.js  
-🛢️ **Database:** MongoDB, Firebase  
-🔗 **Version Control:** Git, GitHub  
-💻 **Tools:** VS Code, Postman, Figma  
+🎯 **Current Focus:** Building scalable **Full-Stack Applications** 🛠️  
 
 ---
 
-### 🔥 Projects & Work  
-🚀 **[Portfolio Website](Your Portfolio Link)** - A sleek & modern portfolio  
-📌 **[Project Name](GitHub Repo Link)** - Description of your project  
-💡 **[Another Cool Project](GitHub Repo Link)** - Brief details of what it does  
-
-💾 More projects coming soon... Stay tuned!  
-
----
-
-### 📈 GitHub Stats  
+## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="180em" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,bootstrap,tailwind,figma,postman,vscode&perline=6" />
 </p>
 
 ---
 
-### 🌍 Connect With Me  
-💌 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-📂 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)  
-🐦 **Twitter:** [@yourhandle](https://twitter.com/yourhandle)  
+## 🔥 My LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yourLeetCodeUsername?theme=dark&font=Fira+Code&ext=heatmap" />
+</p>
 
 ---
 
-⭐ **"Code, Create, Conquer!"** 🚀✨  
+## 🚀 Featured Projects  
+🔹 **[Portfolio Website](Your Portfolio Link)** - A sleek, modern personal portfolio  
+🔹 **[E-Commerce App](GitHub Repo Link)** - MERN Stack shopping site with cart & payments  
+🔹 **[Blogging Platform](GitHub Repo Link)** - A full-stack blog site with authentication  
+
+📌 *More projects coming soon… Stay tuned!*  
+
+---
+
+## 🤝 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🎨 Fun Fact  
+🧠 I think in **JavaScript**, dream in **React**, and debug in **Node.js**! 😄  
+
+💡 **Motto:** *"Code, Build, Repeat!"* 🚀🔥  
 
