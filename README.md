@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Manoj Palanivelrajan
+<p align="center"> # 👋 Hi there! I'm Manoj Palanivelrajan
 
 <p align="center">
   <img src="images/developer-illustration.png" width="400" alt="Developer Illustration">
