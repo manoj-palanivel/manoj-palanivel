@@ -1,20 +1,46 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=KLTgI0mEQCV-didiXVtsEEdGLXwPSj4kTvWKHz-2kEI)]
-<h1 align="center">Hi 👋, I'm Manoj Palanivelrajan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi there! I'm [Your Name]! 🚀
 
-- 🌱 I’m currently learning **More on Front - End Development**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Frontend%20Enthusiast;College%20Student%20Seeking%20Opportunities;Let's%20Build%20Something%20Awesome!;Hello%20World!&font=Pacifico&center=true&width=600&height=120&color=f7797d&vCenter=true&size=50)](https://git.io/typing-svg)
 
-- 💬 Ask me about **HTML and CSS**
-
-- 📫 How to reach me **manojpalanivelrajan@gmail.com**
-
-- ⚡ Fun fact **I love cricket**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manoj-palanivelrajan-468305258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-palanivelrajan-468305258" height="30" width="40" /></a>
-<a href="https://instagram.com/_manoj.p_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manoj.p_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLoE9vHozDIWrR/giphy.gif" width="200" alt="Coding GIF">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/"target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+## About Me ✨
+
+I'm a passionate and driven college student diving headfirst into the world of web development! My primary focus is on the **MERN stack**, where I've gained strong proficiency in crafting beautiful and interactive **frontend** experiences. While my backend skills are still developing, I'm eager to learn and grow in that area.
+
+* 🎓 Currently a [Your College/University] student.
+* 💻 Specializing in **Frontend Development** (React.js, HTML, CSS, JavaScript).
+* 📚 Learning and exploring **Backend Development** (Node.js, Express.js, MongoDB).
+* 🌱 Always eager to learn new technologies and improve my skills.
+* 🤝 Looking for exciting opportunities to contribute and grow in a professional environment.
+
+## Tech Stack 🛠️
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Responsive Design
+* **Backend:** Node.js, Express.js, MongoDB
+* **Tools:** Git, GitHub, VS Code
+
+## Projects 📂
+
+Here are a few projects I've been working on:
+
+* **[Project 1 Name]([Project 1 Link])**: [Short Description of Project 1]. (e.g. A simple ToDo list app using React.)
+* **[Project 2 Name]([Project 2 Link])**: [Short Description of Project 2]. (e.g. A portfolio website built with React and styled components.)
+* **[Project 3 Name]([Project 3 Link])**: [Short Description of Project 3]. (e.g. A basic backend API using Node.js and Express.js.)
+
+(Add more projects as you build them!)
+
+## Let's Connect! 🌐
+
+<p align="center">
+  <a href="[Your LinkedIn Profile]">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="[Your Portfolio Website (Optional)]">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACNSURBVEhL7dYxCsAgDEPRyv0P+x8iR8q2s7gJgYQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4
