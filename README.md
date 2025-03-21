@@ -20,7 +20,7 @@
 ## Tech Stack 🛠️
 
 <p align="center">
-  <img src="images/tech-stack-icon.png" width="50" alt="Tech Stack Icon">
+  <img src="https://www.svgrepo.com/show/408381/stack-apps-layers.svg" width="50" alt="Tech Stack Icon">
   &nbsp;
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,mongodb,java,c,python,git,github,vscode" alt="Tech Stack Icons" />
 </p>
@@ -28,16 +28,16 @@
 ## Projects 📂
 
 <p align="center">
-  <img src="images/projects-icon.png" width="50" alt="Projects Icon">
+  <img src="https://cdn-icons-png.freepik.com/256/5956/5956592.png?semt=ais_hybrid" width="50" alt="Projects Icon">
 </p>
 
-* **Dynamic Calendar:** Developed an interactive calendar using HTML, CSS, and JavaScript. Users can navigate between months and mark important dates. Designed with a responsive layout for cross-device compatibility. [cite: 5]
-* **Real-Time Quiz Game:** Created a dynamic and user-friendly full-stack quiz application using React.js and Node.js/Express.js. Supports real-time scoring, leaderboards and authentication. [cite: 6, 7]
+* **Dynamic Calendar:** Developed an interactive calendar using HTML, CSS, and JavaScript. Users can navigate between months and mark important dates. Designed with a responsive layout for cross-device compatibility. 
+* **Real-Time Quiz Game:** Created a dynamic and user-friendly full-stack quiz application using React.js and Node.js/Express.js. Supports real-time scoring, leaderboards and authentication. 
 
 ## Certifications 📜
 
 <p align="center">
-  <img src="images/certifications-icon.png" width="50" alt="Certifications Icon">
+  <img src="https://cdn-icons-png.flaticon.com/512/1/1700.png" width="50" alt="Certifications Icon">
 </p>
 
 * Practical Web Development - Udemy
@@ -50,7 +50,7 @@
 ## LeetCode Performance 🧑‍💻
 
 <p align="center">
-<img src="images/leetcode-stats.png" width="400" alt="LeetCode Statistics">
+<img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="400" alt="LeetCode Statistics">
 </p>
 
 **Key Stats:**
@@ -67,13 +67,13 @@
 ## Impact & Achievements 🏆
 
 <p align="center">
-  <img src="images/achievements-icon.png" width="50" alt="Achievements Icon">
+  <img src="https://cdn-icons-png.flaticon.com/512/1378/1378582.png" width="50" alt="Achievements Icon">
 </p>
 
-* Solved 135+ problems on LeetCode with 3 badges. [cite: 7]
-* Secured 2nd place at the National Level Symposium at SRM College. [cite: 8]
-* NPTEL Top 5% Gold Medalist in IoT and Silver Medalist in Data Analytics in Python. [cite: 9]
-* Participant and Host of various events such as GeeksforGeeks Innovative Hackathon, Inventify etc. [cite: 10]
+* Solved 135+ problems on LeetCode with 3 badges. 
+* Secured 2nd place at the National Level Symposium at SRM College.
+* NPTEL Top 5% Gold Medalist in IoT and Silver Medalist in Data Analytics in Python.
+* Participant and Host of various events such as GeeksforGeeks Innovative Hackathon, Inventify etc. 
 
 ## Let's Connect! 🌐
 
