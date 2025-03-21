@@ -7,7 +7,7 @@
 ## About Me ✨
 
 <p align="center">
-  <img src="images/about-me-icon.png" width="50" alt="About Me Icon">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdJMV76QKG4tOzhgWQztmaoZqhVkVabf3iNhz-Dsmi_8r2ApxGgPGZpG0ybrG7vxovuX0&usqp=CAU" width="50" alt="About Me Icon">
   &nbsp;Dedicated and organized individual seeking to learn, identify and further develop my skills. Highly motivated, with a desire to take on new challenges. Front-end web developer with strong foundational knowledge in the MERN stack. Experienced in developing responsive, interactive web applications with clean UI/UX. Eager to expand full-stack skills and contribute to innovative projects.
 </p>
 
