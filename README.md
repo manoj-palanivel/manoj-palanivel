@@ -1,69 +1,20 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hey there, I'm <strong>[Your Name]</strong> 👨‍💻
-</h1>
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D12AQFXUMCI_xZ3EQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1683909809034?e=2147483647&v=beta&t=KLTgI0mEQCV-didiXVtsEEdGLXwPSj4kTvWKHz-2kEI)]
+<h1 align="center">Hi 👋, I'm Manoj Palanivelrajan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=60&lines=🚀+MERN+Stack+Developer;🔥+JavaScript+Lover;💡+Open+Source+Contributor;🌍+Lifelong+Learner+%26+Tech+Explorer" />
+- 🌱 I’m currently learning **More on Front - End Development**
+
+- 💬 Ask me about **HTML and CSS**
+
+- 📫 How to reach me **manojpalanivelrajan@gmail.com**
+
+- ⚡ Fun fact **I love cricket**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/manoj-palanivelrajan-468305258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manoj-palanivelrajan-468305258" height="30" width="40" /></a>
+<a href="https://instagram.com/_manoj.p_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_manoj.p_" height="30" width="40" /></a>
 </p>
 
----
-
-## 🌟 About Me  
-💻 **MERN Stack Developer** | Passionate about Web Development  
-🚀 **Self-Taught Coder** | Love to experiment & build new projects  
-📚 **Always Learning** | Keeping up with the latest tech trends  
-
-🎯 **Current Focus:** Building scalable **Full-Stack Applications** 🛠️  
-
----
-
-## 🛠️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,bootstrap,tailwind,figma,postman,vscode&perline=6" />
-</p>
-
----
-
-## 🔥 My LeetCode Stats  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yourLeetCodeUsername?theme=dark&font=Fira+Code&ext=heatmap" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-🔹 **[Portfolio Website](Your Portfolio Link)** - A sleek, modern personal portfolio  
-🔹 **[E-Commerce App](GitHub Repo Link)** - MERN Stack shopping site with cart & payments  
-🔹 **[Blogging Platform](GitHub Repo Link)** - A full-stack blog site with authentication  
-
-📌 *More projects coming soon… Stay tuned!*  
-
----
-
-## 🤝 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎨 Fun Fact  
-🧠 I think in **JavaScript**, dream in **React**, and debug in **Node.js**! 😄  
-
-💡 **Motto:** *"Code, Build, Repeat!"* 🚀🔥  
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/"target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
