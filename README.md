@@ -50,7 +50,7 @@
 ## LeetCode Performance 🧑‍💻
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="400" alt="LeetCode Statistics">
+<img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="50" alt="LeetCode Statistics">
 </p>
 
 **Key Stats:**
