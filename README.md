@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20MERN%20Stack%20Developer;Frontend%20Enthusiast;Eager%20to%20Learn%20and%20Grow;Passionate%20about%20Web%20Development;Let's%20Connect!&font=Pacifico&center=true&width=600&height=120&color=f7797d&vCenter=true&size=40)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLoE9vHozDIWrR/giphy.gif" width="200" alt="Coding GIF">
+  <img src="images/coding-dark-vector.png" width="400" alt="Coding in Dark Vector Illustration">
 </p>
 
 ## About Me ✨
