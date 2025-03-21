@@ -1,7 +1,7 @@
   # 👋 Hi there! I'm Manoj Palanivelrajan
 
 <p align="center">
-  <img src="images/developer-illustration.png" width="400" alt="Developer Illustration">
+  <img src="https://jaro-website.s3.ap-south-1.amazonaws.com/2024/07/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg" width="400" 
 </p>
 
 ## About Me ✨
