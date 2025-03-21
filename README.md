@@ -1,6 +1,6 @@
-# 👋 Hi there! I'm [Your Name]! 🚀
+# 👋 Hi there! I'm Manoj Palanivelrajan! 🚀
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Frontend%20Enthusiast;College%20Student%20Seeking%20Opportunities;Let's%20Build%20Something%20Awesome!;Hello%20World!&font=Pacifico&center=true&width=600&height=120&color=f7797d&vCenter=true&size=50)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20MERN%20Stack%20Developer;Frontend%20Enthusiast;Eager%20to%20Learn%20and%20Grow;Passionate%20about%20Web%20Development;Let's%20Connect!&font=Pacifico&center=true&width=600&height=120&color=f7797d&vCenter=true&size=40)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLoE9vHozDIWrR/giphy.gif" width="200" alt="Coding GIF">
@@ -8,39 +8,51 @@
 
 ## About Me ✨
 
-I'm a passionate and driven college student diving headfirst into the world of web development! My primary focus is on the **MERN stack**, where I've gained strong proficiency in crafting beautiful and interactive **frontend** experiences. While my backend skills are still developing, I'm eager to learn and grow in that area.
+I'm a dedicated and organized individual with a strong desire to learn and excel in web development. [cite: 1] As a front-end enthusiast with foundational knowledge in the MERN stack, I'm passionate about creating responsive and interactive web applications with clean UI/UX. [cite: 2, 3] I'm currently expanding my full-stack skills and eager to contribute to innovative projects. [cite: 3]
 
-* 🎓 Currently a [Your College/University] student.
-* 💻 Specializing in **Frontend Development** (React.js, HTML, CSS, JavaScript).
-* 📚 Learning and exploring **Backend Development** (Node.js, Express.js, MongoDB).
-* 🌱 Always eager to learn new technologies and improve my skills.
-* 🤝 Looking for exciting opportunities to contribute and grow in a professional environment.
+* 🎓 Studying B.E. in Electronics and Communication at St. Joseph Institute of Technology (Expected 2026) [cite: 4]
+* 💻 Strong focus on Frontend Development: HTML5, CSS3, JavaScript, React.js, Bootstrap [cite: 4]
+* 📚 Developing Backend Skills: Node.js, Express.js, MongoDB [cite: 4]
+* 🌱 Proficient in: Java, C, Python, Git, GitHub, VS Code [cite: 4]
+* 🤝 Seeking opportunities to apply my skills and grow as a Full-Stack Developer.
 
 ## Tech Stack 🛠️
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,nodejs,express,mongodb,java,c,python,git,github,vscode" />
 </p>
-
-* **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Responsive Design
-* **Backend:** Node.js, Express.js, MongoDB
-* **Tools:** Git, GitHub, VS Code
 
 ## Projects 📂
 
-Here are a few projects I've been working on:
+* **Dynamic Calendar:** Developed an interactive calendar using HTML, CSS, and JavaScript. [cite: 5] This project allows users to navigate between months and mark important dates, featuring a responsive layout for cross-device compatibility. [cite: 5]
+* **Real-Time Quiz Game:** Created a dynamic and user-friendly full-stack quiz application using React.js and Node.js/Express.js. [cite: 6, 7] This application supports real-time scoring, leaderboards, and authentication. [cite: 7]
 
-* **[Project 1 Name]([Project 1 Link])**: [Short Description of Project 1]. (e.g. A simple ToDo list app using React.)
-* **[Project 2 Name]([Project 2 Link])**: [Short Description of Project 2]. (e.g. A portfolio website built with React and styled components.)
-* **[Project 3 Name]([Project 3 Link])**: [Short Description of Project 3]. (e.g. A basic backend API using Node.js and Express.js.)
+## Certifications 📜
 
-(Add more projects as you build them!)
+* Practical Web Development - Udemy
+* MERN Stack Development - Udemy
+* Data Structures and Algorithm in Java - Infosys Springboard
+* NPTEL Internet of Things - IIT Kharagpur
+* Python 3.x - Skillrack
+* Networking Basics - CISCO
+
+## Impact & Achievements 🏆
+
+* Solved 135+ problems on LeetCode with 3 badges. [cite: 7]
+* Secured 2nd place at the National Level Symposium at SRM College. [cite: 8]
+* NPTEL Top 5% Gold Medalist in IoT and Silver Medalist in Data Analytics in Python. [cite: 9]
+* Participant and Host of various events such as GeeksforGeeks Innovative Hackathon, Inventify etc. [cite: 10]
 
 ## Let's Connect! 🌐
 
 <p align="center">
-  <a href="[Your LinkedIn Profile]">
+  <a href="https://www.linkedin.com/in/manoj-palanivelrajan">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="[Your Portfolio Website (Optional)]">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACNSURBVEhL7dYxCsAgDEPRyv0P+x8iR8q2s7gJgYQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4gQ4
+   <a href="https://github.com/manoj-palanivel">
+    <img src="https://img.shields.io/badge/GitHub-%2318171C.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="manojpalanivelrajan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
