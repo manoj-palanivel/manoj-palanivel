@@ -48,27 +48,8 @@
 * Networking Basics - CISCO
 
 ## LeetCode Performance 🧑‍💻
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="50" alt="LeetCode Statistics">
-</p>
-
-**Key Stats:**
-
-* **Total Solved:** 157 Problems
-* **Beats:** 89.2% of users
-* **Problem Distribution:**
-    * Easy: 86
-    * Medium: 61
-    * Hard: 10
-* **Submissions:** 258
-* **Acceptance Rate:** 80.6%
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/manojpalanivelrajan?theme=catppuccinMocha&font=Crimson%20Text&ext=heatmap)
 ## Impact & Achievements 🏆
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1378/1378582.png" width="50" alt="Achievements Icon">
-</p>
 
 * Solved 135+ problems on LeetCode with 3 badges. 
 * Secured 2nd place at the National Level Symposium at SRM College.
